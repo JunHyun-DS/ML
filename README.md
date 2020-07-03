@@ -4,6 +4,10 @@
 
 ### Regression
 
+- Linear Regression
+- Ridge Regression
+- Lasso Regression
+
 ### Classification
 
 
