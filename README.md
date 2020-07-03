@@ -6,6 +6,7 @@
 
 - Neural Network
 - Decision Tree
+- Random Forest
 - K-NN
 
 ### Regression
