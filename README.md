@@ -16,7 +16,7 @@
 
 ### Classification
 
--SVM
+- SVM
 
 ## Unsupervised Learning
 
