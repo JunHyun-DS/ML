@@ -1,4 +1,4 @@
-# MachineLearning Algorithm with R
+# Machine Learning Algorithm with R
 
 ## Supervised Learning
 
