@@ -16,6 +16,6 @@
 ### clustering
 
 - Kmeans
-- DBSCAN
+- DBSCAN(Density-based spatial clustering of applications with noise)
 
 ### ETC
