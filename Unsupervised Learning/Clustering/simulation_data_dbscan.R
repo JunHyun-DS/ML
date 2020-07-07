@@ -13,7 +13,7 @@ table(dbs$cluster)
 # rand index: clustering 성능평가 지표 
 randIndex = rand.index(test_cluster, dbs$cluster)
 
-# clustering 후 시각화
+# clustering을 반영한 시각화
 plot(simulation_data, col=dbs$cluster)
 
 # rand index 결과 값
