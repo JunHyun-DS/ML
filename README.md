@@ -26,7 +26,7 @@
 - Kmeans
 - DBSCAN
 - Isomap
-- connectivity
+- Graph Connectivity
 - SOM
 
 ### ETC
