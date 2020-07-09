@@ -18,6 +18,7 @@
 ### Classification
 
 - SVM
+- Logistic Regression
 
 ## Unsupervised Learning
 
