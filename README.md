@@ -2,13 +2,6 @@
 
 ## Supervised Learning
 
-### Regression & Classification
-
-- Neural Network
-- Decision Tree
-- Random Forest
-- K-NN
-
 ### Regression
 
 - Linear Regression
@@ -19,6 +12,13 @@
 
 - SVM
 - Logistic Regression
+
+### Regression & Classification
+
+- Neural Network
+- Decision Tree
+- Random Forest
+- K-NN
 
 ## Unsupervised Learning
 
