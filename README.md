@@ -26,7 +26,7 @@
 
 - Kmeans
 - DBSCAN
-- Isomap
+- Isomap(Embedding)
 - Graph Connectivity
 - SOM
 
