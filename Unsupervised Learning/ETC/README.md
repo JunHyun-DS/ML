@@ -1,3 +1,5 @@
 # ETC
 
 ## PCA
+
+## Isomap(Embedding)
