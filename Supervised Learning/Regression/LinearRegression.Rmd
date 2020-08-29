@@ -1,0 +1,39 @@
+---
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 회귀분석의 개념 
+
+선형회귀 분석은 잔차의 합을 최소화 시키는 하나의 직선을 찾는 것을 목표로 합니다.
+
+iris데이터를 이용해서 회귀분석을 시행하겠습니다. 
+
+## iris 데이터 살펴보기 
+```{r cars}
+head(iris,  n=4)
+```
+
+출력변수에 Sepal.Length, 입력변수를 Sepal.Width, Petal.Length, Petal.Width, Species로 넣겠습니다.  
+
+## 선형회귀 모델 
+
+```{r}
+lm_m = lm(Sepal.Length~., data=iris)
+
+summary(lm_m)   
+```
+y = 0.49589 Sepal.Width + 0.82924 Petal.Length - 0.31516 Petal.Width ...의 함수 식을 확인할 수 있습니다.
+
+또한 변수마다 p-value가 나오기 때문에 변수의 유의성을 확인할 수 있습니다.
+
+---
+## 선형회귀 모델의 가정 검정 
+
+선형회귀분석의 4가지 가정을 검정합니다. 
+```{r pressure, echo=TRUE}
+plot(lm_m)
+```
