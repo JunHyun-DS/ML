@@ -29,6 +29,7 @@
 - Graph Connectivity
 - SOM
 
-### ETC
+### Embedding
 - PCA
-- Isomap(Embedding)
+- Isomap
+- t-SNE
